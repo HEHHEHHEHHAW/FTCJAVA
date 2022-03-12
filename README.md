@@ -1,3 +1,5 @@
 # FTCJAVA
 A short beginner guide to FTC Onbot Java
-**In construction 
+
+
+This site is currently still in construction
